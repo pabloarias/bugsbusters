@@ -18,3 +18,5 @@
 - (https://github.com/settings/tokens)
 
 ## Traer los issues
+
+- [Web de issues de Joomla](https://issues.joomla.org/)
