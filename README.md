@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+## Bugsbusters 
 
-You can use the [editor on GitHub](https://github.com/carcam/bugsbusters/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Reunión quincenal en español inspirada en los eventos PBF (https://pizza-bugs-fun.com)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Enlaces de interés para poner tests en marcha
 
-### Markdown
+- Nightly builds
+https://developer.joomla.org/nightly-builds.html
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Actualización  J! 3.10 a J! 4.0
+https://docs.joomla.org/Joomla_3.x_to_4.x_Step_by_Step_Migration
 
-```markdown
-Syntax highlighted code block
+- Patch Tester
+https://github.com/joomla-extensions/patchtester/releases
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/carcam/bugsbusters/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- Preparar entorno de desarrollo joomla
+https://docs.joomla.org/J4.x:Setting_Up_Your_Local_Environment
